@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oeSBqGoLTJBaGmAlTytqbqBIk4KYChMzuVJQojeM5tgCToBuOYnZZ3ZnUgRaRe996hp7VXku8RWcjSHllI2yhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\NetworkProg_ScreenShort\\Tcp_Listener\\Tcp_Listener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
